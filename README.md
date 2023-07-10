@@ -4,10 +4,9 @@
 - 🌱 Estudando Javascript
 - 📫 Contate-me no email: srbreno7@gmail.com
 
-<div>
   [![Breninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breninho1&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/Breninho1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breninho1&layout=compact&langs_count=16&theme=holi)](https://github.com/Breninho1/github-readme-stats)
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
