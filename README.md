@@ -1,6 +1,6 @@
 ### Olá, eu sou o Breno Augusto!
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end, pretendendo ser um dev full-stack
 - 🌱 Estudando a parte do back-end
 - 📫 Contate-me no email: srbreno7@gmail.com
 
