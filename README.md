@@ -1,7 +1,7 @@
 ### Olá, eu sou o Breno Augusto!
 
-- 🔭 Hoje trabalho com front-end, pretendendo ser um dev full-stack
-- 🌱 Estudando a parte do back-end
+- 🔭 Hoje trabalho com front-end e back-end, pretendendo ser um dev full-stack
+- 🌱 Fazendo Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 📫 Contate-me no email: srbreno7@gmail.com
 
   [![Breninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breninho1&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/Breninho1/github-readme-stats)
