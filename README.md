@@ -4,8 +4,8 @@
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 📫 Contate-me no email: srbreno7@gmail.com
 
-  [![Breninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breninho1&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/Breninho1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breninho1&layout=compact&langs_count=16&theme=holi)](https://github.com/Breninho1/github-readme-stats)
+  [![Breninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breninho1&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breninho1&layout=compact&langs_count=16&theme=holi)](https://github.com/BrenoAugustoOG/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
