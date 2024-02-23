@@ -4,7 +4,7 @@
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 📫 Contate-me no email: srbreno7@gmail.com
 
-  [![Breninho's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
+  [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&layout=compact&langs_count=16&theme=holi)](https://github.com/BrenoAugustoOG/github-readme-stats)
 
 
