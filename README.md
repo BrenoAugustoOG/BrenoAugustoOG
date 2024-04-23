@@ -7,7 +7,7 @@
 - 💻 Atualmente trabalho no ...
 - 📫 Contate-me no email: srbreno7@gmail.com
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2> 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -18,12 +18,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-## ⚙️ GitHub Analytics
+<h2>⚙️ GitHub Analytics</h2>
 
 [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&layout=compact&langs_count=16&theme=holi)](https://github.com/BrenoAugustoOG/github-readme-stats)
 
-##
+
 
 <div>
   <a href="https://www.instagram.com/_brenoaugustoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
