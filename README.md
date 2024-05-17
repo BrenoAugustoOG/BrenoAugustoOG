@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Breno Augusto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoAugustoOG&color=blue" alt="Profile views" /> </p>
 
-- 🔭 Hoje trabalho com front-end e back-end, pretendendo ser um dev full-stack
+- 🔭 Hoje trabalho com projetos do Instituto Mauá de Tecnologia, para o ramo do Front-End e Back-End
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 💻 Atualmente trabalho no ...
 - 📫 Contate-me no email: srbreno7@gmail.com
@@ -28,7 +28,7 @@
 
 <div>
   <a href="https://www.instagram.com/_brenoaugustoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:srbreno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:srbreno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
