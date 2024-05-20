@@ -1,6 +1,5 @@
 <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/BrenoAugustoOG/91d4871151e3b81ed6a8a2aef307a464/raw/48dcb5793f2ebdac9a0b7a9e76e670d1c1c23c80/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Breno Augusto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoAugustoOG&color=blue" alt="Profile views" /> </p>
 
 - 🔭 Hoje trabalho com projetos do Instituto Mauá de Tecnologia para o ramo do Front-End e Back-End
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
