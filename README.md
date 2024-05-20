@@ -35,10 +35,6 @@
 <img align="center" alt="breno-figma"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="center" alt="breno-AzureDevOpsa"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 
-<!-- <h2>⌨️ Recent Commits</h2>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenoaugustoog/brenoaugustoog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenoaugustoog/brenoaugustoog/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brenoaugustoog/brenoaugustoog/output/github-contribution-grid-snake.svg">
-</picture> 
+<h2>⌨️ Recent Commits</h2>
+![snake gif](https://github.com/brenoaugustoog/brenoaugustoog/blob/output/github-contribution-grid-snake.gif)
 
