@@ -36,5 +36,3 @@
 <img align="center" alt="breno-AzureDevOpsa"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 
 <h2>⌨️ Recent Commits</h2>
-![snake gif](https://github.com/brenoaugustoog/brenoaugustoog/blob/output/github-contribution-grid-snake.gif)
-
