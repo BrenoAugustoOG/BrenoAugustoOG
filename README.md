@@ -19,7 +19,7 @@
 [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=holi&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&layout=compact&langs_count=16&theme=holi)](https://github.com/BrenoAugustoOG/github-readme-stats)
 
-<h2>🛠 Tech Stack</h2> 
+<h2>🛠 My Stack</h2> 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="breno-HTML"   height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
