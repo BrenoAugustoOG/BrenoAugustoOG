@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com projetos do Instituto Mauá de Tecnologia para o ramo do Front-End e Back-End
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
-- 💻 Atualmente trabalho no ...
+- 💻 Atualmente trabalho no/a ...
 - 📫 Contate-me no email: srbreno7@gmail.com
 
 <h2>Connect with me! 🤝</h2>
