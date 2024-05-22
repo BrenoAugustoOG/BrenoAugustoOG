@@ -5,7 +5,8 @@
 - 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
 - 💻 Atualmente trabalho no/a ...
 - 📫 Contate-me nos canais abaixo, tanto para conversar quanto para trabalhos: ⤵️
-    <div class = redes-sociais>
+
+    <div>
       <a href="https://www.instagram.com/_brenoaugustoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href = "mailto:srbreno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,10 +29,9 @@
 </div>
 
 <h2>⚙️ GitHub Analytics</h2>
-<div class = github-analytics>
+
   [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&hide_progress=true&theme=github_dark)](https://github.com/BrenoAugustoOG/github-readme-stats)
-</div>
 
 <h2>⌨️ Recent Commits</h2>
 <picture>
