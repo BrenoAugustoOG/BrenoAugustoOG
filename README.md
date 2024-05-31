@@ -1,9 +1,17 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Breno Augusto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoAugustoOG&color=blue" alt="Profile views" /> </p>
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-- 🔭 Hoje trabalho com projetos do Instituto Mauá de Tecnologia para o ramo do Front-End e Back-End
-- 🌱 Cursando Bacharel em Ciência da Computação no Instituto Mauá de Tecnologia
-- 💻 Atualmente trabalho no/a ...
+```rust
+fn main() {
+    let name = 'Breno Augusto';
+    let acknowledgements = 'Computer Science Student';
+
+    let location = 'Santo André, São Paulo, Brazil';
+    let company = '#';
+}
+
+```
 - 📫 Contate-me nos canais abaixo, tanto para conversar quanto para trabalhos: ⤵️
 
     <div>
