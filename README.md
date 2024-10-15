@@ -5,16 +5,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C7FC&width=435&lines=Computer+Science+Student+at+IMT;Trying+to+get+better+everyday!;%22One+day+or+day+one%22" alt="Typing SVG" />
 </a>
 
-```rust
-fn main() {
-    let name = 'Breno Augusto';
-    let acknowledgements = 'Computer Science Student at Mauá Institute of Technology';
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" align="right" alt="A professional animation coder gif"/>
+</div>
 
-    let location = 'Santo André, São Paulo, Brazil';
-    let company = '#';
-}
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>São Paulo, Brazil</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://github.com/BrenoAugustoOG" target="_blank"><strong>Portfolio</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:srbreno7@gmail.com"><strong>srbreno7@gmail.com</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently studying in Computer Science at <strong>Mauá Institute of Technology</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>IA</strong> to create smarter user experiences
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
+  </li>
+</ul>
 
-```
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenoaugustoog/brenoaugustoog/output/github-contribution-grid-snake-dark.svg">
     <source media ="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenoaugustoog/brenoaugustoog/output/github-contribution-grid-snake.svg">
