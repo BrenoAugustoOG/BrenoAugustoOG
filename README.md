@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Currently studying Computer Science at <strong>Mauá Institute of Technology</strong>
   </li>
   <li>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" align="center" /> 1x AWS Academy Cloud Foundations</a>
+    <a href="https://www.credly.com/badges/06a5b985-7939-4070-9f2f-36daf82a04a1/public_url" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" align="center" /> 1x AWS Academy Cloud Foundations</a>
   </li>
   <li>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge" align="center" /> 1x CISCO Networking Fundamentals</a>
