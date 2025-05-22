@@ -1,15 +1,8 @@
-<code>Welcome to my GitHub Profile 🤙</code>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoAugustoOG&color=blue" alt="Profile views" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Olá,%20eu%20sou%20Breno%20Augusto!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C7FC&width=435&lines=Computer+Science+Student+at+IMT;Trying+to+get+better+everyday!;%22One+day+or+day+one%22" alt="Typing SVG" />
-</a>
-
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" align="right" alt="A professional animation coder gif"/>
-</div>
-
-<ul>
+<ul align="start">
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>São Paulo, Brazil</strong>
   </li>
@@ -41,6 +34,7 @@
 ## 💻 Technical Skills:  
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -70,3 +64,11 @@
 
   [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/BrenoAugustoOG/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&hide_progress=true&theme=github_dark)](https://github.com/BrenoAugustoOG/github-readme-stats)
+
+<a href="https://git.io/typing-svg" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C7FC&width=435&lines=Computer+Science+Student+at+IMT;Trying+to+get+better+everyday!;%22One+day+or+day+one%22" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+</p>
