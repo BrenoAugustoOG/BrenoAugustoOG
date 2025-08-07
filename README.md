@@ -4,11 +4,11 @@
 
 # 💻 Computer Science Student | São Paulo, Brazil
 
-Welcome to my profile! I'm passionate about technology, and my expertise lies in crafting efficient infrastructures and robust APIs for optimized performance.
+Welcome to my profile! I'm passionate about technology, and my expertise lies in crafting efficient infrastructures and code.
 
 ## 📚 Summary
 - 🎓 Computer Science student at **Mauá Institute of Technology**.
-- ⚙️ Specialized in creating efficient infrastructures and robust APIs.
+- ⚙️ Improving in creating efficient infrastructures and robust APIs.
 - 📈 Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
 
 ## 🌐 About Me
