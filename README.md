@@ -8,7 +8,7 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
 
 ## 📚 Summary
 - 🎓 Computer Science student at **Mauá Institute of Technology**.
-- ⚙️ Improving in creating efficient infrastructures and robust APIs.
+- ⚙️ Improving on creating efficient infrastructures and robust APIs.
 - 📈 Committed to continuous learning to stay ahead in the ever-evolving tech landscape.
 
 ## 🌐 About Me
