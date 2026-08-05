@@ -9,7 +9,7 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
 ## 🌐 About Me
 <ul align="start">
 <li>
-  🎓 Computer Science student at <strong>Mauá Institute of Technology</strong>.
+  🎓 <strong>Bachelor of Science in Computer Science<strong>
 </li>
 <li>
   ⚙️ Improving on creating efficient infrastructures and robust APIs.
