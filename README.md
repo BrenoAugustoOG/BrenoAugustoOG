@@ -23,8 +23,9 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
   <li>
     🖥️ Explore My Work: <a href="https://github.com/BrenoAugustoOG" target="_blank"><strong>Portfolio</strong></a>
   </li>
+    <a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <li>
-    ✉️ Contact me: <a href="mailto:srbreno7@gmail.com"><strong>srbreno7@gmail.com</strong></a>
+    ✉️ Contact me: <a href="mailto:srbreno7@gmail.com"><strong>breno.agandolfo@gmail.com</strong></a>
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" align="center" /> <a href="https://www.credly.com/badges/06a5b985-7939-4070-9f2f-36daf82a04a1/public_url" target="_blank"> AWS Academy Cloud Foundations</a>
@@ -72,13 +73,6 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌍💻 Let's Connect
-Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology. ⚡
-
-<a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
