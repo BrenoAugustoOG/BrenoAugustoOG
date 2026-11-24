@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d214f&height=200&section=header&text=Olá,%20eu%20sou%20Breno%20Augusto!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d214f&height=200&section=header&text=Breno%20Augusto's%20GitHub!&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </p>
-
-# 💻 Computer Science | São Paulo, Brazil
-
-Welcome to my profile! I'm passionate about technology, and my expertise lies in crafting efficient infrastructures and code.
 
 ## 🌐 About Me
 <ul align="start">
