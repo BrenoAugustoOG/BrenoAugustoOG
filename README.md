@@ -23,9 +23,8 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
   <li>
     🖥️ Explore My Work: <a href="https://github.com/BrenoAugustoOG" target="_blank"><strong>Portfolio</strong></a>
   </li>
-    <a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <li>
-    ✉️ Contact me: <a href="mailto:srbreno7@gmail.com"><strong>breno.agandolfo@gmail.com</strong></a>
+    ✉️ Contact me: <a href="mailto:srbreno7@gmail.com"><strong>breno.agandolfo@gmail.com</strong></a> or in <a href="https://www.linkedin.com/in/brenoaugustoog/" target="_blank">LinkedIn</a>
   </li>
   <li>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" align="center" /> <a href="https://www.credly.com/badges/06a5b985-7939-4070-9f2f-36daf82a04a1/public_url" target="_blank"> AWS Academy Cloud Foundations</a>
@@ -80,10 +79,6 @@ Welcome to my profile! I'm passionate about technology, and my expertise lies in
 
   [![Breno Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoAugustoOG&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/brenoaugustoog/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&hide_progress=true&theme=github_dark)](https://github.com/BrenoAugustoOG/github-readme-stats)
-
-<a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C7FC&width=435&lines=Computer+Science+Student+at+IMT;Trying+to+get+better+everyday!;%22One+day+or+day+one%22" alt="Typing SVG" />
-</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d214f&height=100&section=footer"/>
